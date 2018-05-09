@@ -38,6 +38,19 @@ https://github.com/hassio-addons/repository-beta
 
 ## Add-ons provided by this repository
 
+### &#10003; [AirCast][addon-aircast]
+
+![Latest Version][aircast-version-shield]
+![Supports armhf Architecture][aircast-armhf-shield]
+![Supports aarch64 Architecture][aircast-aarch64-shield]
+![Supports amd64 Architecture][aircast-amd64-shield]
+![Supports i386 Architecture][aircast-i386-shield]
+![Docker Pulls][aircast-pulls-shield]
+
+AirPlay capabilities for your Chromecast devices.
+
+[:books: AirCast add-on documentation][addon-doc-aircast]
+
 ## Releases
 
 Releases are based on [Semantic Versioning][semver], and use the format
@@ -66,6 +79,7 @@ You could also open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
+- [Open an issue for the add-on: AirCast][aircast-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -115,6 +129,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-aircast]: https://github.com/hassio-addons/addon-aircast/tree/v0.3.0
+[addon-doc-aircast]: https://github.com/hassio-addons/addon-aircast/blob/v0.3.0/README.md
+[aircast-issue]: https://github.com/hassio-addons/addon-aircast/issues
+[aircast-version-shield]: https://img.shields.io/badge/version-v0.3.0-blue.svg
+[aircast-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/aircast-armhf.svg
+[aircast-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[aircast-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[aircast-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[aircast-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [awesome-shield]: https://img.shields.io/badge/awesome%3F-yes-brightgreen.svg
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
