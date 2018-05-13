@@ -1,20 +1,31 @@
-[Full Changelog][v2.2.1-v2.3.0]
-
-### Fixed
-
-- Adds HASSIO_TOKEN to user environment
+[Full Changelog][changelog]
 
 ### Added
 
-- Adds add-on icon
-- Adds zip package
-- Adds allow_remote_port_forwarding option
-- Adds documentation for allow_remote_port_forwarding option
+- Adds all architectures to add-on config
+- Adds .yamllint configuration
+- Adds SQLite by default
+- Adds Probot configuration
+- Adds add-on README template
+- Adds Gitlab CI
+
+### Fixed
+
+- Fixes Markdownlint warning in License
+- Fixes hadolint warnings
+- Fixes sudoers file permissions
 
 ### Changed
 
-- Updates base image to v1.3.3
-- Updates hassio-cli to v1.2.1
-- Optimizes images in this repository
+- Replaces Changelog with GitHub releases
+- Updates hassio-cli to v1.3.0 (#18) (@bastula)
+- Updates README
+- Upgrades add-on base image to v1.4.1
 
-[v2.2.1-v2.3.0]: https://github.com/hassio-addons/addon-ssh/compare/v2.2.1...v2.3.0
+### Removed
+
+- Removes CodeClimate
+- Removes CircleCI
+- Removes supervisor version constraint from add-on config
+
+[changelog]: https://github.com/hassio-addons/addon-ssh/compare/v2.3.0...v2.4.0
