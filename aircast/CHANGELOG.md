@@ -1,13 +1,28 @@
-[Full Changelog][v0.2.0-v0.3.0]
+[Full Changelog][changelog]
 
 ### Added
 
-- Adds add-on icon
+- Adds .yamllint configuration
+- Adds Probot configuration
+- Adds initial add-on README template
+- Adds Gitlab CI
+
+### Fixed
+
+- Fixes Markdownlint warning in License
+- Fixes hadolint warnings
 
 ### Changed
 
-- Upgrades add-on base image to v1.0.0
-- Upgrades AirCast server to v0.2.0.5
-- Optimizes add-on logo
+- Replaces Changelog with GitHub releases
+- Adds all architectures to add-on config
+- Updates README
+- Changes add-on base to Ubuntu
+- Updates AirConnect to v0.2.0.8
 
-[v0.2.0-v0.3.0]: https://github.com/hassio-addons/addon-aircast/compare/v0.2.0...v0.3.0
+### Removed
+
+- Removes CodeClimate
+- Removes CircleCI
+
+[changelog]: https://github.com/hassio-addons/addon-aircast/compare/v0.3.0...v0.4.0
