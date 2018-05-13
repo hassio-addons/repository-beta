@@ -1,20 +1,27 @@
-[Full Changelog][v1.1.0-v1.2.0]
+[Full Changelog][changelog]
 
 ### Added
 
-- Adds add-on icon & logo
+- Adds .yamllint configuration
+- Adds Probot configuration
+- Adds GitLab CI
+- Adds add-on README template
+
+### Fixed
+
+- Fixes hadolint warnings
+- Fixes Markdownlint warning in License
 
 ### Changed
 
-- Prevents possible future Docker login issue
-- Use image tagged as test as a cache resource
-- Pass local CircleCI Docker socket into the build container
-- Updated maintenance year, it is 2018
-- Updates base image to v1.3.3
-- Allow add-on to access the Hass.io API
+- Updates README
+- Upgrades add-on base image to v1.4.1
+- Updates wget to 1.19.5-r0
 
 ### Removed
 
-- Removes Microbadger notification hooks
+- Removes CodeClimate
+- Replaces Changelog with GitHub releases
+- Removes CircleCI
 
-[v1.1.0-v1.2.0]: https://github.com/hassio-addons/addon-example/compare/v1.1.0...v1.2.0
+[changelog]: https://github.com/hassio-addons/addon-example/compare/v1.2.0...v1.3.0
