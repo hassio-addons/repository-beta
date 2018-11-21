@@ -1,8 +1,8 @@
 [Full Changelog][changelog]
 
-### Changed
+- Fixes default build architecture in Dockerfile
+- Removes some unused code
+- Updates Docker usage instructions when protection mode is disabled
+- Updates documentation installation instructions
 
-- Adds Hassio API role to configuration
-- Upgrades base image to v2.3.0
-
-[changelog]: https://github.com/hassio-addons/addon-portainer/compare/v0.1.0...v0.2.0
+[changelog]: https://github.com/hassio-addons/addon-portainer/compare/v0.2.0...v0.3.0
