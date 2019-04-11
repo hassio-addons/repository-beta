@@ -62,7 +62,7 @@ The Android Debug Bridge server program
 ![Supports i386 Architecture][adguard-i386-shield]
 ![Docker Pulls][adguard-pulls-shield]
 
-Network-wide ads & trackers blocking DNS server.
+Network-wide ads & trackers blocking DNS server
 
 [:books: AdGuard Home add-on documentation][addon-doc-adguard]
 
