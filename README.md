@@ -939,11 +939,11 @@ SOFTWARE.
 [addon-doc-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/blob/v1.0.0/README.md
 [sqlite-web-issue]: https://github.com/hassio-addons/addon-sqlite-web/issues
 [sqlite-web-version-shield]: https://img.shields.io/badge/version-v1.0.0-blue.svg
-[sqlite-web-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/sqlite-web.svg
+[sqlite-web-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/sqlite-web-armhf.svg
 [sqlite-web-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sqlite-web-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [sqlite-web-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[sqlite-web-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[sqlite-web-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [sqlite-web-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-ssh]: https://github.com/hassio-addons/addon-ssh/tree/v5.0.0
 [addon-doc-ssh]: https://github.com/hassio-addons/addon-ssh/blob/v5.0.0/README.md
