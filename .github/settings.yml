@@ -1,6 +1,6 @@
 ---
 repository:
-  description: "BETA - Community Home Assistant Add-ons"
+  description: "BETA - Home Assistant Community Add-ons"
   homepage: https://addons.community
   topics: beta, unstable, home-assistant, homeassistant, addons, addons-repository, repository
   private: false
