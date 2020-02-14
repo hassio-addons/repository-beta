@@ -1,4 +1,4 @@
-# BETA - Community Hass.io Add-ons for Home Assistant
+# BETA - Home Assistant Community Add-ons
 
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
@@ -12,7 +12,7 @@
 
 ## WARNING! THIS IS A BETA REPOSITORY
 
-This Hass.io Add-ons repository contains beta releases of add-ons.
+This Home Assistant Add-ons repository contains beta releases of add-ons.
 
 - They might stop working at any time.
 - They could have a negative impact on your system.
@@ -28,9 +28,11 @@ If you are more interested in stable releases of our add-ons:
 
 ## Installation
 
-Adding this add-ons repository to your Hass.io Home Assistant instance is
-pretty easy. Follow [the official instructions][third-party-addons] on the
-website of Home Assistant, and use the following URL:
+Adding this add-ons repository to yourHome Assistant instance is
+pretty straightforward. In the Home Assistant add-on store,
+a possibility to add a repository is provided.
+
+Use the following URL to add this repository:
 
 ```txt
 https://github.com/hassio-addons/repository-beta
@@ -646,8 +648,9 @@ Got questions?
 
 You have several options to get them answered:
 
+- The Home Assistant Community Add-ons [Discord Chat Server][discord]
 - The Home Assistant [Community Forum][forum].
-- The Home Assistant [Discord Chat Server][discord].
+- The Home Assistant [Discord Chat Server][discord-ha].
 - Join the [Reddit subreddit][reddit] in [/r/homeassistant][reddit]
 
 You could also open an issue here on GitHub. Note, we use a separate
@@ -711,15 +714,13 @@ Thank you for being involved! :heart_eyes:
 
 ## Adding a new add-on
 
-Have you created an add-on that you want to list in the Community Repository?
-Contact [Franck Nijhof][frenck]:
+We are currently not accepting third party add-ons to this repository.
+
+For questions, please contact [Franck Nijhof][frenck]:
 
 - Drop him an email: frenck@addons.community
 - Chat with him on [Discord Chat][discord]
 - Message him via the forums: [frenck][forum-frenck]
-
-He will set up a GitHub repository and all the other plumbing,
-and of course, give you developer access to your contribution.
 
 ## License
 
@@ -1166,8 +1167,9 @@ SOFTWARE.
 [motioneye-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [motioneye-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [awesome-shield]: https://img.shields.io/badge/awesome%3F-yes-brightgreen.svg
-[discord-shield]: https://img.shields.io/discord/330944238910963714.svg
-[discord]: https://discord.gg/c5DvZ4e
+[discord-ha]: https://discord.gg/c5DvZ4e
+[discord-shield]: https://img.shields.io/discord/478094546522079232.svg
+[discord]: https://discord.me/hassioaddons
 [forum-frenck]: https://community.home-assistant.io/u/frenck/?u=frenck
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io?u=frenck
@@ -1180,4 +1182,3 @@ SOFTWARE.
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-development-yellowgreen.svg
 [reddit]: https://reddit.com/r/homeassistant
 [semver]: http://semver.org/spec/v2.0.0.html
-[third-party-addons]: https://home-assistant.io/hassio/installing_third_party_addons/
