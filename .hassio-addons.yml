@@ -109,6 +109,10 @@ addons:
     repository: hassio-addons/addon-pi-hole
     target: pi-hole
     image: hassioaddons/pi-hole-{arch}
+  phpmyadmin:
+    repository: hassio-addons/addon-phpmyadmin
+    target: phpmyadmin
+    image: hassioaddons/phpmyadmin-{arch}
   plex:
     repository: hassio-addons/addon-plex
     target: plex
