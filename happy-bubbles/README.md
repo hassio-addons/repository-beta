@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: Happy Bubbles
+# Home Assistant Community Add-on: Happy Bubbles
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -31,7 +31,7 @@ as they happen, to not have to keep polling it.
 
 ## WARNING! THIS IS A BETA VERSION!
 
-This Hass.io Add-ons repository contains beta releases of add-ons.
+This Home Assistant Add-ons repository contains beta releases of add-ons.
 
 - They might stop working at any time.
 - They could have a negative impact on your system.
@@ -47,14 +47,14 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-happy-bubbles/blob/v3.0.5/README.md
+[docs]: https://github.com/hassio-addons/addon-happy-bubbles/blob/v3.1.0/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/t/community-hass-io-add-on-happy-bubbles/53511?u=frenck
+[forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-happy-bubbles/53511?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v3.0.5-blue.svg
-[release]: https://github.com/hassio-addons/addon-happy-bubbles/tree/v3.0.5
+[release-shield]: https://img.shields.io/badge/version-v3.1.0-blue.svg
+[release]: https://github.com/hassio-addons/addon-happy-bubbles/tree/v3.1.0
