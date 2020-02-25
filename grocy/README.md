@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: Grocy
+# Home Assistant Community Add-on: Grocy
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -30,7 +30,7 @@ management solution for your home, delivering features like:
 
 ## WARNING! THIS IS A BETA VERSION!
 
-This Hass.io Add-ons repository contains beta releases of add-ons.
+This Home Assistant Add-ons repository contains beta releases of add-ons.
 
 - They might stop working at any time.
 - They could have a negative impact on your system.
@@ -46,9 +46,9 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-grocy/blob/v0.6.0/README.md
+[docs]: https://github.com/hassio-addons/addon-grocy/blob/v0.7.0/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/t/community-hass-io-add-on-grocy/112422?u=frenck
+[forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-grocy/112422?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
 [grocy-demo]: https://demo-en.grocy.info
@@ -57,6 +57,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-v0.6.0-blue.svg
-[release]: https://github.com/hassio-addons/addon-grocy/tree/v0.6.0
+[release-shield]: https://img.shields.io/badge/version-v0.7.0-blue.svg
+[release]: https://github.com/hassio-addons/addon-grocy/tree/v0.7.0
 [screenshot]: https://github.com/hassio-addons/addon-grocy/raw/master/images/screenshot.gif
