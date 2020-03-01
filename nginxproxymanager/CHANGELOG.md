@@ -1,6 +1,16 @@
 [Full Changelog][changelog]
 
-This is a general maintenance release.
+This is a big major release!
+
+This release upgrades the Nginx Proxy Manager to the latest and greatest, furthermore, it now leverages the official MariaDB add-on to store its data in.
+
+### ⚠️ Breaking change
+
+This add-on now depends on and requires the official Home Assistant MariaDB add-on in order to run.
+
+All data of the NGINX Proxy Manager is now stored in that add-on. This removes the need for the add-on to run and maintain its own database server. This reduces memory & CPU usages and makes it easier to maintain the add-on overall.
+
+If you are upgrading, please make sure you have installed the MariaDB add-on (version 2.0 or higher). The NGINX Proxy Manager add-on will automatically migrate your existing data.
 
 ### 🔨  Changes
 
@@ -18,7 +28,7 @@ This is a general maintenance release.
 - :hammer: Adds migration to official MariaDB add-on (#77)
 - :books: Update add-on instructions
 
-[changelog]: https://github.com/hassio-addons/addon-nginx-proxy-manager/compare/v0.4.0...v0.5.0-beta.1
+[changelog]: https://github.com/hassio-addons/addon-nginx-proxy-manager/compare/v0.4.0...v0.5.0
 
 Questions? Join our Discord server! https://discord.me/hassioaddons
 Enjoying my add-ons? Consider supporting my work:
