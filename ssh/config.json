@@ -1,6 +1,6 @@
 {
   "name": "SSH & Web Terminal",
-  "version": "7.3.0",
+  "version": "7.3.1-beta.1",
   "slug": "ssh",
   "description": "SSH & Web Terminal access to your Home Assistant instance",
   "url": "https://github.com/hassio-addons/addon-ssh",
@@ -17,6 +17,7 @@
     "armv7",
     "i386"
   ],
+  "init": false,
   "ports": {
     "22/tcp": 22
   },
