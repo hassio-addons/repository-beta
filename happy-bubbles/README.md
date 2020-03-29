@@ -47,7 +47,7 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-happy-bubbles/blob/v3.1.0/README.md
+[docs]: https://github.com/hassio-addons/addon-happy-bubbles/blob/v3.1.1/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-happy-bubbles/53511?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -56,5 +56,5 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v3.1.0-blue.svg
-[release]: https://github.com/hassio-addons/addon-happy-bubbles/tree/v3.1.0
+[release-shield]: https://img.shields.io/badge/version-v3.1.1-blue.svg
+[release]: https://github.com/hassio-addons/addon-happy-bubbles/tree/v3.1.1
