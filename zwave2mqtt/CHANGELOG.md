@@ -9,8 +9,9 @@
 - :ambulance: Symlink addition database location
 - :hammer: Disable Docker init
 - :arrow_up: Upgrades open-zwave database to e3bae88
+- :ambulance: Correct database paths
 
-[changelog]: https://github.com/hassio-addons/addon-zwave2mqtt/compare/v0.5.0...v0.6.0-beta.2
+[changelog]: https://github.com/hassio-addons/addon-zwave2mqtt/compare/v0.5.0...v0.6.0-beta.3
 
 Questions? Join our Discord server! https://discord.me/hassioaddons
 Enjoying my add-ons? Consider supporting my work: https://patreon.com/frenck
