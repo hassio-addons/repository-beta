@@ -7,8 +7,10 @@
 - :arrow_up: Upgrades Zwave2Mqtt to v3.0.2 (#39)
 - :ambulance: Use correct webUI protocol depending on config (#43)
 - :ambulance: Symlink addition database location
+- :hammer: Disable Docker init
+- :arrow_up: Upgrades open-zwave database to e3bae88
 
-[changelog]: https://github.com/hassio-addons/addon-zwave2mqtt/compare/v0.5.0...v0.6.0-beta.1
+[changelog]: https://github.com/hassio-addons/addon-zwave2mqtt/compare/v0.5.0...v0.6.0-beta.2
 
 Questions? Join our Discord server! https://discord.me/hassioaddons
 Enjoying my add-ons? Consider supporting my work: https://patreon.com/frenck
