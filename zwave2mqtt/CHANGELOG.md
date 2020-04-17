@@ -10,8 +10,10 @@
 - :hammer: Disable Docker init
 - :arrow_up: Upgrades open-zwave database to e3bae88
 - :ambulance: Correct database paths
+- :ambulance: Change database path again, update documentation with known issue
+- :arrow_up: Upgrades git to 2.24.2-r0
 
-[changelog]: https://github.com/hassio-addons/addon-zwave2mqtt/compare/v0.5.0...v0.6.0-beta.3
+[changelog]: https://github.com/hassio-addons/addon-zwave2mqtt/compare/v0.5.0...v0.6.0-beta.4
 
 Questions? Join our Discord server! https://discord.me/hassioaddons
 Enjoying my add-ons? Consider supporting my work: https://patreon.com/frenck
