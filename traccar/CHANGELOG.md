@@ -4,8 +4,8 @@ This is a general maintenance release.
 
 ### Changed
 
-- :arrow_up: Upgrades add-on base image to v7.0.5
-- :hammer: Disable Docker init
+- ⬆ Upgrades add-on base image to v7.0.5
+- 🔨 Disable Docker init
 
 [changelog]: https://github.com/hassio-addons/addon-traccar/compare/v0.7.2...v0.7.3
 
