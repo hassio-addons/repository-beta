@@ -22,8 +22,9 @@
 - ⬆ Upgrades code-server to 3.3.1
 - 🚑 Fix locales handling
 - 👕 Slow down fetching extensions from Marketplace a bit, to prevent rate limiting
+- 🚑 Fix auto indent for YAML
 
-[changelog]: https://github.com/hassio-addons/addon-vscode/compare/v2.2.0...v2.3.0-beta.2
+[changelog]: https://github.com/hassio-addons/addon-vscode/compare/v2.2.0...v2.3.0-beta.3
 
 Questions? Join our Discord server! https://discord.me/hassioaddons
 Enjoying my add-ons? Consider supporting my work:
