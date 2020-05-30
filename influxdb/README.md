@@ -22,8 +22,6 @@ gives you a nice InfluxDB admin interface for managing your users, databases,
 data retention settings, and lets you peek inside the database using the
 Data Explorer.
 
-[Click here for the full documentation][docs]
-
 ![Chronograf in the Home Assistant Frontend][screenshot]
 
 ## WARNING! THIS IS A BETA VERSION!
@@ -44,7 +42,6 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-influxdb/blob/v3.6.2/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-influxdb/54491?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -53,6 +50,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v3.6.2-blue.svg
-[release]: https://github.com/hassio-addons/addon-influxdb/tree/v3.6.2
+[release-shield]: https://img.shields.io/badge/version-v3.7.0-blue.svg
+[release]: https://github.com/hassio-addons/addon-influxdb/tree/v3.7.0
 [screenshot]: https://github.com/hassio-addons/addon-influxdb/raw/master/images/screenshot.png
