@@ -13,8 +13,6 @@ chrony NTP Server.
 An NTP server accesible by all hosts on the local network, useful for setting
 time on devices with controlled internet access (such as cameras).
 
-[Click here for the full documentation][docs]
-
 ## WARNING! THIS IS A BETA VERSION!
 
 This Home Assistant Add-ons repository contains beta releases of add-ons.
@@ -35,10 +33,9 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/sinclairpaul
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-chrony/blob/v1.0.10/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v1.0.10-blue.svg
-[release]: https://github.com/hassio-addons/addon-chrony/tree/v1.0.10
+[release-shield]: https://img.shields.io/badge/version-v1.0.11-blue.svg
+[release]: https://github.com/hassio-addons/addon-chrony/tree/v1.0.11
