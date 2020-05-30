@@ -24,8 +24,6 @@ management solution for your home, delivering features like:
 
 [Try out the online demo of Grocy][grocy-demo].
 
-[Click here for the full documentation][docs]
-
 ![Grocy screenshot][screenshot]
 
 ## WARNING! THIS IS A BETA VERSION!
@@ -46,7 +44,6 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-grocy/blob/v0.7.1/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-grocy/112422?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -57,6 +54,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-v0.7.1-blue.svg
-[release]: https://github.com/hassio-addons/addon-grocy/tree/v0.7.1
+[release-shield]: https://img.shields.io/badge/version-v0.8.0-blue.svg
+[release]: https://github.com/hassio-addons/addon-grocy/tree/v0.8.0
 [screenshot]: https://github.com/hassio-addons/addon-grocy/raw/master/images/screenshot.gif
