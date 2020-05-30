@@ -15,7 +15,7 @@
 - ✏ Split add-on documentation
 - ⬆ Upgrades NGINX Proxy Manager to v2.3.0
 
-[changelog]: https://github.com/hassio-addons/addon-nginx-proxy-manager/compare/v0.5.0...v0.6.0-beta.2
+[changelog]: https://github.com/hassio-addons/addon-nginx-proxy-manager/compare/v0.5.0...v0.6.0
 
 Questions? Join our Discord server! https://discord.me/hassioaddons
 Enjoying my add-ons? Consider supporting my work:
