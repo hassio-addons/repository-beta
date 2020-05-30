@@ -23,8 +23,11 @@
 - 🚑 Fix locales handling
 - 👕 Slow down fetching extensions from Marketplace a bit, to prevent rate limiting
 - 🚑 Fix auto indent for YAML
+- ⬆ Upgrades code-server to 3.4.0
+- ✏ Split add-on documentation
+- 🚑 Increase sleep between extension download
 
-[changelog]: https://github.com/hassio-addons/addon-vscode/compare/v2.2.0...v2.3.0-beta.3
+[changelog]: https://github.com/hassio-addons/addon-vscode/compare/v2.2.0...v2.3.0-beta.4
 
 Questions? Join our Discord server! https://discord.me/hassioaddons
 Enjoying my add-ons? Consider supporting my work:
