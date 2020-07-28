@@ -1,0 +1,1 @@
+See https://beta.esphome.io/changelog/v1.15.0.html

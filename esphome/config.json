@@ -1,0 +1,47 @@
+{
+  "arch": [
+    "amd64",
+    "armv7",
+    "aarch64"
+  ],
+  "auth_api": true,
+  "auto_uart": true,
+  "boot": "auto",
+  "description": "Beta version of ESPHome Hass.io add-on.",
+  "hassio_api": true,
+  "hassio_role": "default",
+  "homeassistant_api": false,
+  "host_network": true,
+  "image": "esphome/esphome-hassio-{arch}",
+  "ingress": true,
+  "ingress_port": 0,
+  "map": [
+    "ssl:ro",
+    "config:rw"
+  ],
+  "name": "ESPHome (beta)",
+  "options": {},
+  "panel_icon": "mdi:chip",
+  "ports": {
+    "6052/tcp": null
+  },
+  "ports_description": {
+    "6052/tcp": "Web interface (Not required for Home Assistant Ingress)"
+  },
+  "schema": {
+    "certfile": "str?",
+    "esphome_version": "str?",
+    "keyfile": "str?",
+    "leave_front_door_open": "bool?",
+    "relative_url": "str?",
+    "ssl": "bool?",
+    "status_use_ping": "bool?",
+    "streamer_mode": "bool?"
+  },
+  "slug": "esphome-beta",
+  "stage": "experimental",
+  "startup": "application",
+  "url": "https://beta.esphome.io/",
+  "version": "1.15.0b2",
+  "webui": "http://[HOST]:[PORT:6052]"
+}
