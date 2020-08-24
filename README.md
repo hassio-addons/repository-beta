@@ -861,10 +861,10 @@ SOFTWARE.
 [bookstack-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [bookstack-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [bookstack-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-esphome]: https://github.com/esphome/hassio/tree/1.15.0b3
-[addon-doc-esphome]: https://github.com/esphome/hassio/blob/1.15.0b3/README.md
+[addon-esphome]: https://github.com/esphome/hassio/tree/1.15.0b4
+[addon-doc-esphome]: https://github.com/esphome/hassio/blob/1.15.0b4/README.md
 [esphome-issue]: https://github.com/esphome/hassio/issues
-[esphome-version-shield]: https://img.shields.io/badge/version-1.15.0b3-blue.svg
+[esphome-version-shield]: https://img.shields.io/badge/version-1.15.0b4-blue.svg
 [esphome-pulls-shield]: https://img.shields.io/docker/pulls/esphome/esphome-hassio-amd64.svg
 [esphome-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [esphome-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
