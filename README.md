@@ -162,7 +162,7 @@ Beta version of ESPHome Hass.io add-on.
 ![Supports i386 Architecture][example-i386-shield]
 ![Docker Pulls][example-pulls-shield]
 
-Example add-on by Community Hass.io Add-ons
+Example add-on by Community Home Assistant Add-ons
 
 [:books: Example add-on documentation][addon-doc-example]
 
