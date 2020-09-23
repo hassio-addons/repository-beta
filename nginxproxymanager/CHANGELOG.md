@@ -16,9 +16,9 @@
 - 🚑 Add Python2 to satisfy node-gyp
 - ⬆ Upgrades add-on base image to v8.0.3
 - ✨ Add option to reset database (#104)
-- ⬆ Upgrades nodejs to 12.18.4-r
+- ⬆ Upgrades nodejs to 12.18.4-r1
 
-[changelog]: https://github.com/hassio-addons/addon-nginx-proxy-manager/compare/v0.6.0...v0.7.0-beta.1
+[changelog]: https://github.com/hassio-addons/addon-nginx-proxy-manager/compare/v0.6.0...v0.7.0
 Questions? Join our Discord server! https://discord.me/hassioaddons
 Enjoying my add-ons? Consider supporting my work:
 https://github.com/sponsors/frenck or https://patreon.com/frenck
