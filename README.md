@@ -887,7 +887,7 @@ SOFTWARE.
 [addon-doc-example]: https://github.com/hassio-addons/addon-example/blob/v4.0.0-beta.0/README.md
 [example-issue]: https://github.com/hassio-addons/addon-example/issues
 [example-version-shield]: https://img.shields.io/badge/version-v4.0.0-beta.0-blue.svg
-[example-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/example-armhf.svg
+[example-pulls-shield]: https://img.shields.io/docker/pulls/ghcr.io/hassio-addons/example/armhf.svg
 [example-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [example-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
