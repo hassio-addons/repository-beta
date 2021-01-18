@@ -1,6 +1,6 @@
 ## What’s changed
 
-The second beta release to re-deploy
+Updates this add-on to the latest base images and a new GitHub Actions workflow.
 
 ## 🧰 Maintenance
 
@@ -9,6 +9,10 @@ The second beta release to re-deploy
 - Fix deployment workflow @frenck (#22)
 - Adjust deployment supporting all environments @frenck (#23)
 - Happy New Year @frenck (#25)
+
+## 📚 Documentation
+
+- Fix CI badge in README @frenck (#26)
 
 ## ⬆️ Dependency updates
 
