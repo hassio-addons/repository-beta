@@ -1,6 +1,6 @@
 ## What’s changed
 
-First beta release
+The second beta release to re-deploy
 
 ## 🧰 Maintenance
 
