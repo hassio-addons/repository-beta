@@ -1,11 +1,28 @@
-[Full Changelog][changelog]
+## What’s changed
 
-### 🔨  Changes
+## 🐛 Bug fixes
 
-- ⬆ Upgrades NGINX Proxy Manager to v2.6.2
+- Add missing type to port definitions @frenck (#139)
+- Grant Supervisor API access to retreive environment information @frenck (#144)
 
-[changelog]: https://github.com/hassio-addons/addon-nginx-proxy-manager/compare/v0.8.1...v0.8.2
+## 🧰 Maintenance
 
-Questions? Join our Discord server! https://discord.me/hassioaddons
-Enjoying my add-ons? Consider supporting my work:
-https://github.com/sponsors/frenck or https://patreon.com/frenck
+- Cleanup repository @frenck (#130)
+- Happy New Year @frenck (#131)
+- Upgrade Code of Conduct @frenck (#132)
+- Add new repository workflow @frenck (#133)
+
+## 📚 Documentation
+
+- Fix master->main in README template @frenck (#136)
+
+## ⬆️ Dependency updates
+
+- Upgrade add-on base image to 9.1.0 @frenck (#137)
+- ⬆️ Bump certbot-dns-cloudflare from 1.7.0 to 1.11.0 in /proxy-manager @dependabot (#134)
+- ⬆ Upgrades NGINX Proxy Manager to v2.7.3 @frenck (#138)
+- ⬆️ Bump actions/stale from v3.0.14 to v3.0.15 @dependabot (#141)
+- ⬆️ Bump frenck/action-addon-linter from v1.3.1 to v1.4 @dependabot (#142)
+- ⬆ Upgrades py3-pip to 20.3.4-r0 @frenck (#140)
+- Upgrade add-on base image to 9.1.1 @frenck (#143)
+- Upgrade add-on base image to 9.1.2 @frenck (#146)
