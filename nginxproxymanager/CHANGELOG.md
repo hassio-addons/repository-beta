@@ -1,9 +1,16 @@
 ## What’s changed
 
+This release upgrades a lot of the part in this add-on.
+The OS, and basically all the software, including an update to the NGINX Proxy Manager itself.
+
+As of now, the add-on is build using GitHub Actions and distributed via the GitHub Container Registry. While a big change, this change should not be noticeable to you 😉 
+
+../Frenck
+
 ## 🐛 Bug fixes
 
 - Add missing type to port definitions @frenck (#139)
-- Grant Supervisor API access to retreive environment information @frenck (#144)
+- Grant Supervisor API access to retrieve environment information @frenck (#144)
 
 ## 🧰 Maintenance
 
