@@ -7,6 +7,7 @@
 ## 🐛 Bug fixes
 
 - 🚑 Bind AdGuard Home to the default interface @frenck (#126)
+- 🚑 Ensure the add-on has proper API access @frenck (#129)
 
 ## 🧰 Maintenance
 
