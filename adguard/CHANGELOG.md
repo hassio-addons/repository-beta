@@ -8,6 +8,7 @@
 
 - 🚑 Bind AdGuard Home to the default interface @frenck (#126)
 - 🚑 Ensure the add-on has proper API access @frenck (#129)
+- 🚑 Fix host configuration, remove netmask @frenck (#130)
 
 ## 🧰 Maintenance
 
