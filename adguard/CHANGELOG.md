@@ -10,6 +10,11 @@
 - 🚑 Ensure the add-on has proper API access @frenck (#129)
 - 🚑 Fix host configuration, remove netmask @frenck (#130)
 
+## 🚀 Enhancements
+
+- Exclude querylogs from snapshots @frenck (#131)
+- Disable Nginx access logs @frenck (#132)
+
 ## 🧰 Maintenance
 
 - Remove obsolete webui from configuration @frenck (#107)
