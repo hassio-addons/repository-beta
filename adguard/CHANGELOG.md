@@ -1,5 +1,11 @@
 ## What’s changed
 
+This updates AdGuard Home to the latest and greatest version (ships with AdGuard Home v0.105.2), which contains a lot of fixes.
+
+Additionally, this add-on has breaking changes, which is the reason for the major version bump. AdGuard Home will now bind solely to the main network interface. The Supervisor provides this network information, thus having a proper, Supervisor supported and managed, network configuration is now required.
+
+Lastly, the snapshots of this add-on are now smaller and quicker and the logs spam way less.
+
 ## 🚨 Breaking changes
 
 - 🚑 Bind AdGuard Home to the default interface @frenck (#126)
