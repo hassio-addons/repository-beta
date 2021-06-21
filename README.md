@@ -124,7 +124,7 @@ Simple & Free Wiki Software
 ![Supports amd64 Architecture][esphome-amd64-shield]
 ![Supports i386 Architecture][esphome-i386-shield]
 
-Beta version of ESPHome add-on.
+Beta version of ESPHome add-on
 
 [:books: ESPHome (beta) add-on documentation][addon-doc-esphome]
 
