@@ -17,3 +17,7 @@
 ## 📚 Documentation
 
 - ✏️ Mark add-on stable @frenck (#246)
+
+## ⬆️ Dependency updates
+
+- ⬇️  Downgrade MongoDB to 3.4 to provide an upgrade path @frenck (#247)
