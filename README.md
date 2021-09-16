@@ -505,7 +505,7 @@ Fast, modern, secure VPN tunnel
 
 [:books: WireGuard add-on documentation][addon-doc-wireguard]
 
-### &#10003; [Z-Wave JS to MQTT][addon-zwave2mqtt]
+### &#10003; [Z-Wave JS to MQTT][addon-zwavejs2mqtt]
 
 ![Latest Version][zwavejs2mqtt-version-shield]
 ![Supports armhf Architecture][zwavejs2mqtt-armhf-shield]
