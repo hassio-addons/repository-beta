@@ -310,19 +310,6 @@ Recorded media, live TV, online news, and podcasts ready to stream.
 
 [:books: Plex Media Server add-on documentation][addon-doc-plex]
 
-### &#10003; [Portainer][addon-portainer]
-
-![Latest Version][portainer-version-shield]
-![Supports armhf Architecture][portainer-armhf-shield]
-![Supports armv7 Architecture][portainer-armv7-shield]
-![Supports aarch64 Architecture][portainer-aarch64-shield]
-![Supports amd64 Architecture][portainer-amd64-shield]
-![Supports i386 Architecture][portainer-i386-shield]
-
-Manage your Docker environment with ease
-
-[:books: Portainer add-on documentation][addon-doc-portainer]
-
 ### &#10003; [Prometheus][addon-prometheus]
 
 ![Latest Version][prometheus-version-shield]
@@ -620,7 +607,6 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Nginx Proxy Manager][nginxproxymanager-issue]
 - [Open an issue for the add-on: Node-RED][node-red-issue]
 - [Open an issue for the add-on: Plex Media Server][plex-issue]
-- [Open an issue for the add-on: Portainer][portainer-issue]
 - [Open an issue for the add-on: Prometheus][prometheus-issue]
 - [Open an issue for the add-on: SQLite Web][sqlite-web-issue]
 - [Open an issue for the add-on: SSH & Web Terminal][ssh-issue]
@@ -876,15 +862,6 @@ SOFTWARE.
 [plex-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [plex-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [plex-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-portainer]: https://github.com/hassio-addons/addon-portainer/tree/v2.0.0
-[addon-doc-portainer]: https://github.com/hassio-addons/addon-portainer/blob/v2.0.0/README.md
-[portainer-issue]: https://github.com/hassio-addons/addon-portainer/issues
-[portainer-version-shield]: https://img.shields.io/badge/version-v2.0.0-blue.svg
-[portainer-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[portainer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[portainer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[portainer-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[portainer-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-prometheus]: https://github.com/hassio-addons/addon-prometheus/tree/v1.0.0-beta.0
 [addon-doc-prometheus]: https://github.com/hassio-addons/addon-prometheus/blob/v1.0.0-beta.0/README.md
 [prometheus-issue]: https://github.com/hassio-addons/addon-prometheus/issues
