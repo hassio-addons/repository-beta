@@ -1,1 +1,1 @@
-See https://beta.esphome.io/changelog/index.html
+See https://esphome.io/changelog/index.html
