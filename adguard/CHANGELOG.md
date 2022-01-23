@@ -1,18 +1,9 @@
 ## What’s changed
 
-## ✨ New features
-
-- Bind on all interfaces @rondoval (#253)
-
-## 🚀 Enhancements
-
-- 🔨 Update backup_exclude for rotated query logs @sinclairpaul (#281)
-- Bind on all interfaces @rondoval (#253)
-
 ## 🧰 Maintenance
 
-- 🚀 Update CI to latest version @frenck (#280)
+- 🎆 Updates maintenance/license year to 2022 @frenck (#291)
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Upgrades add-on base image to 11.0.0 @frenck (#283)
+- ⬆️ Upgrades add-on base image to 11.0.1 @frenck (#292)
