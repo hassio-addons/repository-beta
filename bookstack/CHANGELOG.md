@@ -1,9 +1,12 @@
 ## What’s changed
 
-## 🧰 Maintenance
+Updates Bookstack version and marks release as Production 🎉
 
-- 🚀 Update CI to latest version @frenck (#165)
+## 📚 Documentation
+
+- 📚 Update Year 🎉 @sinclairpaul (#168)
+- 🎉 Mark Production Ready @sinclairpaul (#169)
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update bookstack to v21.11.3 @sinclairpaul (#166)
+- ⬆️ Update Bookstack to v22.02 @sinclairpaul (#173)
