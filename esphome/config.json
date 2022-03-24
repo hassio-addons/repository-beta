@@ -37,7 +37,7 @@
     "streamer_mode": "bool?"
   },
   "slug": "esphome-beta",
-  "stage": "experimental",
+  "stage": "deprecated",
   "uart": true,
   "url": "https://beta.esphome.io/",
   "version": "2022.3.1"
