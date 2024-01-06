@@ -101,10 +101,6 @@ addons:
     repository: hassio-addons/addon-plex
     target: plex
     image: ghcr.io/hassio-addons/plex/{arch}
-  prometheus:
-    repository: hassio-addons/addon-prometheus
-    target: prometheus
-    image: hassioaddons/prometheus-{arch}
   spotify:
     repository: hassio-addons/addon-spotify-connect
     target: spotify
