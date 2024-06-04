@@ -1,21 +1,18 @@
 ## What’s changed
 
-## 🚨 Breaking changes
+## 🐛 Bug fixes
 
-- Drop support for armhf & i386 @frenck ([#89](https://github.com/hassio-addons/addon-mqtt-io/pull/89))
-
-## 🧰 Maintenance
-
-- 🎆 Updates maintenance/license year to 2024 @frenck ([#99](https://github.com/hassio-addons/addon-mqtt-io/pull/99))
+- ⬇️ Downgrade paho-mqtt to <2 @mrk-its ([#121](https://github.com/hassio-addons/addon-mqtt-io/pull/121))
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.3.0 @renovate ([#88](https://github.com/hassio-addons/addon-mqtt-io/pull/88))
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.3.1 @renovate ([#90](https://github.com/hassio-addons/addon-mqtt-io/pull/90))
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.3.2 @renovate ([#93](https://github.com/hassio-addons/addon-mqtt-io/pull/93))
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.3.3 @renovate ([#94](https://github.com/hassio-addons/addon-mqtt-io/pull/94))
-- ⬆️ Update adafruit-circuitpython-ahtx0 to v1.0.20 @renovate ([#96](https://github.com/hassio-addons/addon-mqtt-io/pull/96))
-- ⬆️ Update adafruit-circuitpython-mcp230xx to v2.5.13 @renovate ([#97](https://github.com/hassio-addons/addon-mqtt-io/pull/97))
-- ⬆️ Update adafruit-circuitpython-ahtx0 to v1.0.21 @renovate ([#98](https://github.com/hassio-addons/addon-mqtt-io/pull/98))
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15 @renovate ([#95](https://github.com/hassio-addons/addon-mqtt-io/pull/95))
-- ⬆️ Update gpiod to v2 @renovate ([#92](https://github.com/hassio-addons/addon-mqtt-io/pull/92))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.4 @renovate ([#102](https://github.com/hassio-addons/addon-mqtt-io/pull/102))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.5 @renovate ([#105](https://github.com/hassio-addons/addon-mqtt-io/pull/105))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.6 @renovate ([#106](https://github.com/hassio-addons/addon-mqtt-io/pull/106))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.7 @renovate ([#107](https://github.com/hassio-addons/addon-mqtt-io/pull/107))
+- ⬆️ Update gpiozero to v2.0.1 @renovate ([#108](https://github.com/hassio-addons/addon-mqtt-io/pull/108))
+- ⬆️ Update Python to v3.11.8-r0 @renovate ([#109](https://github.com/hassio-addons/addon-mqtt-io/pull/109))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.8 @renovate ([#113](https://github.com/hassio-addons/addon-mqtt-io/pull/113))
+- ⬆️ Update alpine_3_19/git to v2.43.4-r0 @renovate ([#117](https://github.com/hassio-addons/addon-mqtt-io/pull/117))
+- ⬆️ Update Python to v3.11.9-r0 @renovate ([#114](https://github.com/hassio-addons/addon-mqtt-io/pull/114))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.9 @renovate ([#118](https://github.com/hassio-addons/addon-mqtt-io/pull/118))
