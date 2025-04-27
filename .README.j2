@@ -25,7 +25,7 @@ If you are more interested in stable releases of our add-ons:
 
 ## Installation
 
-Adding this add-ons repository to yourHome Assistant instance is
+Adding this add-ons repository to your Home Assistant instance is
 pretty straightforward. In the Home Assistant add-on store,
 a possibility to add a repository is provided.
 
