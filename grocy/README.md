@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: Grocy
+# Home Assistant Community App: Grocy
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -28,7 +28,7 @@ management solution for your home, delivering features like:
 
 ## WARNING! THIS IS A BETA VERSION!
 
-This Home Assistant Add-ons repository contains beta releases of add-ons.
+This Home Assistant Apps repository contains beta releases of apps.
 
 - They might stop working at any time.
 - They could have a negative impact on your system.
@@ -36,9 +36,9 @@ This Home Assistant Add-ons repository contains beta releases of add-ons.
 This repository was created for:
 
 - Anybody willing to test.
-- Anybody interested in trying out upcoming add-ons or add-on features.
+- Anybody interested in trying out upcoming apps or app features.
 
-If you are more interested in stable releases of our add-ons:
+If you are more interested in stable releases of our apps:
 
 <https://github.com/hassio-addons/repository>
 
@@ -50,10 +50,10 @@ If you are more interested in stable releases of our add-ons:
 [github-sponsors]: https://github.com/sponsors/frenck
 [grocy-demo]: https://demo-en.grocy.info
 [grocy]: https://grocy.info/
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-v0.24.0-blue.svg
-[release]: https://github.com/hassio-addons/addon-grocy/tree/v0.24.0
-[screenshot]: https://github.com/hassio-addons/addon-grocy/raw/main/images/screenshot.gif
+[release-shield]: https://img.shields.io/badge/version-v0.25.0-blue.svg
+[release]: https://github.com/hassio-addons/app-grocy/tree/v0.25.0
+[screenshot]: https://github.com/hassio-addons/app-grocy/raw/main/images/screenshot.gif
