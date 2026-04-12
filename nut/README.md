@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: Network UPS Tools
+# Home Assistant Community App: Network UPS Tools
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -24,14 +24,14 @@ are [compatible][nut-compatible].
 The Network UPS Tools (NUT) project is the combined effort of
 many [individuals and companies][nut-acknowledgements].
 
-Be sure to add the NUT integration after starting the add-on.
+Be sure to add the NUT integration after starting the app.
 
 For more information on how to configure the NUT Sensor in Home Assistant
 see the [NUT integration documentation][nut-ha-docs].
 
 ## WARNING! THIS IS A BETA VERSION!
 
-This Home Assistant Add-ons repository contains beta releases of add-ons.
+This Home Assistant Apps repository contains beta releases of apps.
 
 - They might stop working at any time.
 - They could have a negative impact on your system.
@@ -39,9 +39,9 @@ This Home Assistant Add-ons repository contains beta releases of add-ons.
 This repository was created for:
 
 - Anybody willing to test.
-- Anybody interested in trying out upcoming add-ons or add-on features.
+- Anybody interested in trying out upcoming apps or app features.
 
-If you are more interested in stable releases of our add-ons:
+If you are more interested in stable releases of our apps:
 
 <https://github.com/hassio-addons/repository>
 
@@ -52,11 +52,11 @@ If you are more interested in stable releases of our add-ons:
 [discord]: https://discord.me/hassioaddons
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-network-ups-tools/68516
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [nut-acknowledgements]: https://networkupstools.org/acknowledgements.html
 [nut-compatible]: https://networkupstools.org/stable-hcl.html
 [nut-features]: https://networkupstools.org/features.html
 [nut-ha-docs]: https://www.home-assistant.io/integrations/nut/
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-v0.17.0-blue.svg
-[release]: https://github.com/hassio-addons/addon-nut/tree/v0.17.0
+[release-shield]: https://img.shields.io/badge/version-v0.18.0-blue.svg
+[release]: https://github.com/hassio-addons/app-nut/tree/v0.18.0
