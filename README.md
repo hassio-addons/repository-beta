@@ -661,6 +661,19 @@ A web interface for the official MariaDB app
 
 [:books: phpMyAdmin app documentation][addon-doc-phpmyadmin]
 
+### &#10003; [qBittorrent][addon-qbittorrent]
+
+![Latest Version][qbittorrent-version-shield]
+![Supports armhf Architecture][qbittorrent-armhf-shield]
+![Supports armv7 Architecture][qbittorrent-armv7-shield]
+![Supports aarch64 Architecture][qbittorrent-aarch64-shield]
+![Supports amd64 Architecture][qbittorrent-amd64-shield]
+![Supports i386 Architecture][qbittorrent-i386-shield]
+
+Fast, stable and lightweight BitTorrent client
+
+[:books: qBittorrent app documentation][addon-doc-qbittorrent]
+
 ## Releases
 
 Releases are based on [Semantic Versioning][semver], and use the format
@@ -738,6 +751,7 @@ on the correct GitHub repository matching the app.
 - [Open an issue for the app: chrony][chrony-issue]
 - [Open an issue for the app: motionEye][motioneye-issue]
 - [Open an issue for the app: phpMyAdmin][phpmyadmin-issue]
+- [Open an issue for the app: qBittorrent][qbittorrent-issue]
 
 For a general repository issue or app ideas [open an issue here][issue]
 
@@ -1217,6 +1231,15 @@ SOFTWARE.
 [phpmyadmin-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [phpmyadmin-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [phpmyadmin-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-qbittorrent]: https://github.com/hassio-addons/app-qbittorrent/tree/v0.1.0
+[addon-doc-qbittorrent]: https://github.com/hassio-addons/app-qbittorrent/blob/v0.1.0/README.md
+[qbittorrent-issue]: https://github.com/hassio-addons/app-qbittorrent/issues
+[qbittorrent-version-shield]: https://img.shields.io/badge/version-v0.1.0-blue.svg
+[qbittorrent-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[qbittorrent-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[qbittorrent-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[qbittorrent-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[qbittorrent-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [discord-ha]: https://discord.gg/c5DvZ4e
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
