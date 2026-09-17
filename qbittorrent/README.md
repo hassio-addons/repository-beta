@@ -50,5 +50,5 @@ If you are more interested in stable releases of our apps:
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
 [qbittorrent]: https://www.qbittorrent.org/
-[release-shield]: https://img.shields.io/badge/version-v0.1.0-blue.svg
-[release]: https://github.com/hassio-addons/app-qbittorrent/tree/v0.1.0
+[release-shield]: https://img.shields.io/badge/version-v0.1.1-blue.svg
+[release]: https://github.com/hassio-addons/app-qbittorrent/tree/v0.1.1
